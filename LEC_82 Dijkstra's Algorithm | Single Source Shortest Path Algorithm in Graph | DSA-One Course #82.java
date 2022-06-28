@@ -1,4 +1,5 @@
-
+//LINKE OF QUESTION
+// https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1/
 //PAIR CALSS FOR STORING VERTEX AND WEIGHT
     class Pair implements Comparable<Pair>{
         int wt;
